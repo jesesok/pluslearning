@@ -1,0 +1,3 @@
+C:/Users/MoisNV/CLionProjects/pluselearning/cmake-build-debug/CMakeFiles/pluselearning.dir
+C:/Users/MoisNV/CLionProjects/pluselearning/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MoisNV/CLionProjects/pluselearning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
